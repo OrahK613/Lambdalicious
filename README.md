@@ -6,4 +6,4 @@ By [Jonathon Morgan](http://twitter.com/jonathonmorgan)
 
 This is an attempt to learn CleanScript. I decided to try to convert Jonathon's work here to CleanScript.
 
-[Orah]
+-Orah
