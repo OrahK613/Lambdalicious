@@ -132,7 +132,8 @@
       setGraphData(processData(dataResponse));
     }
 
-    var apikey = // Get your key at http://api.crisis.net
+    //var apikey = // Get your key at http://api.crisis.net
+	var apikey = "55564e1302e1140305e56d91"
     var dataRequest = $.get('http://api.crisis.net/item?limit=100&apikey='+apikey);
 
     dataRequest.done( updateGraph );
