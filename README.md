@@ -4,6 +4,6 @@ A little library for functional programming in JavaScript. These are just exampl
 
 By [Jonathon Morgan](http://twitter.com/jonathonmorgan)
 
-This is an attempt to learn CleanScript. I decided to try to convert Jonathon's work here to CleanScript.
+This is an attempt to learn PureScript. I decided to try to convert Jonathon's work here to PureScript.
 
 -Orah
